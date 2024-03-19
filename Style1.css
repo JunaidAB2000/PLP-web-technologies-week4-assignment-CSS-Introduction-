@@ -1,0 +1,70 @@
+#name {
+    color: darkblue;
+    background-color: azure;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    font-weight: bold;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-align: center;
+}
+.introduction {
+    background-color: aliceblue;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 0.5%;
+}
+h3 {
+    color: darkblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+
+#ski {
+    color: darkblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.skills {
+    background-color: aliceblue;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 0%;
+    padding-bottom: 0.5%;
+}
+#skills_list {
+    display: flex;
+    justify-content: baseline ;
+    align-items: center;
+    color: darkblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    font-weight: 400;
+    list-style: none;
+    
+}
+li {
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border: 3px solid rgba(13, 13, 63, 0.76);
+    border-radius: 7px;
+    margin-left: 3%;
+}
+.contact {
+    background-color: aliceblue;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding-left: 5%;
+}
+a {
+    background-color: whitesmoke;
+    display: flexbox;
+    justify-content: baseline;
+    padding-right: 3%;
+}
